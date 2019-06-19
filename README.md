@@ -1,6 +1,8 @@
 # Spot-the-Differences
 Displays differences between pictures on a LED matrix. 
 Task 0 of my Spider Inductions for the Summer of '19
+### Youtube Link
+Here you go : [Bear the Cringe 🤣](https://www.youtube.com/watch?v=W3XFHgI8PFY)
 
 # Problem Statement 
 One day, you find an interesting puzzle on a magazine, asking to find as
